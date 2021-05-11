@@ -1,0 +1,2 @@
+(this.webpackJsonpkt=this.webpackJsonpkt||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),c=n.n(r),s=(n(8),n(0));var i=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("div",{className:"regform",children:Object(s.jsx)("h1",{children:"Drreamz "})})})};c.a.render(Object(s.jsx)(i,{}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.68925784.chunk.js.map
